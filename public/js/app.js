@@ -39,24 +39,6 @@
     // Lightbox
     $('.venobox').venobox();
 
-    // Sliders
-    $(".owl-carousel").owlCarousel({
-      slideSpeed: 500,
-      navigation: true,
-      singleItem: true,
-      autoHeight: true,
-      pagination: true,
-      navigationText: ['<i class="ion-ios7-arrow-left"></i>','<i class="ion-ios7-arrow-right"></i>']
-    });
-
-    $(".owl-highlighted").owlCarousel({
-      slideSpeed: 500,
-      singleItem: true,
-      autoHeight: true,
-      pagination: true,
-      navigationText: ['<i class="ion-ios7-arrow-left"></i>','<i class="ion-ios7-arrow-right"></i>']
-    });
-
     /* Form submission code */
     // Get the form.
     var form = $('#theme-contact');

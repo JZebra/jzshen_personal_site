@@ -1,0 +1,6 @@
+{
+  "name": "jzshen-personal-site",
+  "root": "./",
+  "clean_urls": true,
+  "error_page": "error.html"
+}
