@@ -2012,3 +2012,11 @@ input[type="number"] {
   }
 }
 **/
+
+.bg-image-street {
+  background: url('../img/background-images/street.jpg') scroll top no-repeat;
+  -webkit-background-size: cover;
+     -moz-background-size: cover;
+       -o-background-size: cover;
+          background-size: cover;
+}
